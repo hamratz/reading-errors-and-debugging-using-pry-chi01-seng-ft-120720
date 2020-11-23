@@ -4,5 +4,3 @@ def plus_two(num)
   sum
 end
   
-  
-	binding.pry
